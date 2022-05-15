@@ -8,3 +8,5 @@ router.get('/', (req: Request, res: Response) => {
         message: '회원가입 성공'
     });
 });
+
+module.exports = router;
