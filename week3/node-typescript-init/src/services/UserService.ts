@@ -17,8 +17,10 @@ const createUser = async (userCreateDto: UserCreateDto): Promise<PostBaseRespons
             }
         });
 
+        // 새 document 생성해서 저장하기
         await user.save();
 
+        // 반환 값 가공 (db에 저장된 document id값 가져오기)
         const data = {
             _id: user.id
         };
@@ -40,8 +42,10 @@ const updateUser = async (userId: string, userUpdateDto: UserUpdateDto) => {
     }
 }
 
+// db에 저장되어 있는 user document를 조회
 const findUserById = async (userId: string): Promise<UserResponseDto | null> => {
     try {
+        // mongoose의 functions findById() 사용
         const user = await User.findById(userId);
 
         if (!user) {
@@ -55,8 +59,9 @@ const findUserById = async (userId: string): Promise<UserResponseDto | null> => 
     }
 }
 
-const delteUser = async (userId: string): Promise<void> => {
+const deleteUser = async (userId: string): Promise<void> => {
     try {
+        // mongoose의 function findByIdAndDelete() 사용
         await User.findByIdAndDelete(userId);
     } catch (error) {
         console.log(error);
@@ -68,5 +73,5 @@ export default {
     createUser,
     updateUser,
     findUserById,
-    delteUser
+    deleteUser
 }
