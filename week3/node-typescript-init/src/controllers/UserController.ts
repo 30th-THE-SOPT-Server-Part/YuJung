@@ -64,7 +64,7 @@ const findUserById = async (req: Request, res: Response) => {
             return res.status(statusCode.NOT_FOUND).send(util.fail(statusCode.NOT_FOUND, message.NOT_FOUND));
         }
 
-        res.status(statusCode.OK).send(util.success(statusCode.OK, message.CREATE_USER_SUCCESS, data));
+        res.status(statusCode.OK).send(util.success(statusCode.OK, message.FIND_USER_SUCCESS, data));
 
     } catch (error) {
         console.log(error);

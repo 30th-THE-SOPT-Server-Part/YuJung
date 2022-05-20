@@ -6,6 +6,11 @@ const message = {
 
     //user
     CREATE_USER_SUCCESS: '유저 생성 성공',
+    FIND_USER_SUCCESS: '유저 조회 성공',
+
+    //blog
+    CREATE_BLOG_SUCCESS: '블로그 생성 성공',
+    FIND_BLOG_SUCESS: '블로그 조회 성공',
 }
 
 export default message;
