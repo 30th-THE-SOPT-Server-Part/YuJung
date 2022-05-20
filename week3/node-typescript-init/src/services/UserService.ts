@@ -2,7 +2,7 @@ import { PostBaseResponseDto } from "../interfaces/common/PostBaseResponseDto";
 import { UserCreateDto } from "../interfaces/user/UserCreateDto";
 import { UserResponseDto } from "../interfaces/user/UserResponseDto";
 import { UserUpdateDto } from "../interfaces/user/UserUpdateDto";
-import User from "../models/user";
+import User from "../models/User";
 
 const createUser = async (userCreateDto: UserCreateDto): Promise<PostBaseResponseDto> => {
     try {
