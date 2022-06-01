@@ -8,7 +8,7 @@
   |week|date|contents|level|link|
   |:-:|----|-------|--------------------|:----:|
   |1️⃣|22.04.02|TypeScript, Node.js 기초|🏃‍♀️실천|[과제](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/1)|
-  |||TypeScript, Node.js 기초|🏋️‍♀️발전||
+  |||랜덤으로 저녁식사 조 짜기|🏋️‍♀️발전||
   |2️⃣|22.04.09|비동기, REST API, Express|🏃‍♀️실천|[과제](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/2)|
   |||API 라우팅 연습|🏋️‍♀️발전|[과제](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/5)|
   |3️⃣|22.04.23|Mongo DB, Mongoose, Node.JS 디렉토링, User 모델 CRUD 연습|🏃‍♀️실천|[과제](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/3)|
