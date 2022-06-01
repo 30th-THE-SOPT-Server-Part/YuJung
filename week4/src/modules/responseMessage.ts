@@ -15,6 +15,12 @@ const message = {
     // review 
     CREATE_REVIEW_SUCCESS: '리뷰 작성 성공',
     READ_REVIEW_SUCCESS: '리뷰 조회 성공',
+
+    //movie
+    CREATE_MOVIE_SUCCESS: '영화 정보 생성 성공',
+    FIND_MOVIE_SUCCESS: '영화 정보 조회 성공',
+    UPDATE_MOVIE_SUCCESS: '영화 정보 수정 성공',
+    DELETE_MOVIE_SUCCESS: '영화 정보 삭제 성공',
 }
 
 export default message;
