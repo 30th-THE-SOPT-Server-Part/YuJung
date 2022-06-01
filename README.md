@@ -14,7 +14,7 @@
   |3️⃣|22.04.23|Mongo DB, Mongoose, Node.JS 디렉토링, User 모델 CRUD 연습|🏃‍♀️실천|[과제](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/3)|
   |||Blog 모델 CRUD 실습|🏋️‍♀️발전|[과제](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/7)|
   |4️⃣|22.07.07|EC2, PM2, S3, API 실습 (express-validator)|🏃‍♀️실천|[과제](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/8)|
-  |||User 라우처 express-validator 적용, Movie API 실습|🏋️‍♀️발전|[과제](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/9)|
+  |||User 라우터 express-validator 적용, Movie API 실습|🏋️‍♀️발전|[과제](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/9)|
   |5️⃣|22.05.14||🏃‍♀️실천||
   ||||🏋️‍♀️발전||
   |6️⃣|22.05.21|서버-클라이언트 합동 세미나|🧑‍🤝‍🧑합동|[Git Repo](https://github.com/Today-s-ramen/SERVER)|
