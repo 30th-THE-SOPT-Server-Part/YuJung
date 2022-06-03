@@ -15,8 +15,8 @@
   |||Blog 모델 CRUD 실습|🏋️‍♀️발전|[과제](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/7)|
   |4️⃣|22.07.07|EC2, PM2, S3, API 실습 (express-validator)|🏃‍♀️실천|[과제](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/8)|
   |||User 라우터 express-validator 적용, Movie API 실습|🏋️‍♀️발전|[과제](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/9)|
-  |5️⃣|22.05.14||🏃‍♀️실천||
-  ||||🏋️‍♀️발전||
+  |5️⃣|22.05.14|jwt auth, middleware|📖복습|[PR](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/10)|
+  |||합동 세미나 사전 과제|🧑‍🤝‍🧑합동|[사전과제](https://www.notion.so/q-bit/2-34952fa03aeb4421842ef0a07e331481)|
   |6️⃣|22.05.21|서버-클라이언트 합동 세미나|🧑‍🤝‍🧑합동|[Git Repo](https://github.com/Today-s-ramen/SERVER)|
   |7️⃣|22.05.28||🏃‍♀️실천||
   ||||🏋️‍♀️발전||
