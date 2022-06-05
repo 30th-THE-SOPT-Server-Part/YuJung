@@ -18,7 +18,7 @@
   |5️⃣|22.05.14|jwt auth, middleware|📖복습|[PR](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/10)|
   |||합동 세미나 사전 과제|🧑‍🤝‍🧑합동|[사전과제](https://www.notion.so/q-bit/2-34952fa03aeb4421842ef0a07e331481)|
   |6️⃣|22.05.21|서버-클라이언트 합동 세미나|🧑‍🤝‍🧑합동|[Git Repo](https://github.com/Today-s-ramen/SERVER)|
-  |7️⃣|22.05.28||🏃‍♀️실천||
-  ||||🏋️‍♀️발전||
+  |7️⃣|22.05.28|S3 파일 업로드, 검색 API, 페이지네이션 API|🏃‍♀️실천|[과제](https://github.com/30th-THE-SOPT-Server-Part/YuJung/pull/11)|
+  |||search와 option 쿼리 활용|🏋️‍♀️발전||
   
 </div>
